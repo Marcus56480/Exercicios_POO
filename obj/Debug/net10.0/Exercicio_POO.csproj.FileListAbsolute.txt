@@ -12,3 +12,4 @@ C:\Users\56344482800\Desktop\dotnet\Exercicio_POO\obj\Debug\net10.0\refint\Exerc
 C:\Users\56344482800\Desktop\dotnet\Exercicio_POO\obj\Debug\net10.0\Exercicio_POO.pdb
 C:\Users\56344482800\Desktop\dotnet\Exercicio_POO\obj\Debug\net10.0\Exercicio_POO.genruntimeconfig.cache
 C:\Users\56344482800\Desktop\dotnet\Exercicio_POO\obj\Debug\net10.0\ref\Exercicio_POO.dll
+C:\Users\56344482800\Desktop\dotnet\Exercicio_POO\obj\Debug\net10.0\Exercicio_POO.sourcelink.json
